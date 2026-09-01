@@ -1,0 +1,2256 @@
+[
+  {
+    "name": "Open Chrome",
+    "trigger": "open chrome",
+    "action": "OPEN_APP",
+    "value": "chrome",
+    "description": "Open Windows application",
+    "category": "Laptop",
+    "steps": [
+      "PC|OPEN_APP|chrome"
+    ]
+  },
+  {
+    "name": "Open Edge",
+    "trigger": "open edge",
+    "action": "OPEN_APP",
+    "value": "edge",
+    "description": "Open Windows application",
+    "category": "Laptop",
+    "steps": [
+      "PC|OPEN_APP|edge"
+    ]
+  },
+  {
+    "name": "Open Notepad",
+    "trigger": "open notepad",
+    "action": "OPEN_APP",
+    "value": "notepad",
+    "description": "Open Windows application",
+    "category": "Laptop",
+    "steps": [
+      "PC|OPEN_APP|notepad"
+    ]
+  },
+  {
+    "name": "Open Calculator",
+    "trigger": "open calculator",
+    "action": "OPEN_APP",
+    "value": "calculator",
+    "description": "Open Windows application",
+    "category": "Laptop",
+    "steps": [
+      "PC|OPEN_APP|calculator"
+    ]
+  },
+  {
+    "name": "Open Paint",
+    "trigger": "open paint",
+    "action": "OPEN_APP",
+    "value": "paint",
+    "description": "Open Windows application",
+    "category": "Laptop",
+    "steps": [
+      "PC|OPEN_APP|paint"
+    ]
+  },
+  {
+    "name": "Open Command Prompt",
+    "trigger": "open command prompt",
+    "action": "OPEN_APP",
+    "value": "cmd",
+    "description": "Open Windows application",
+    "category": "Laptop",
+    "steps": [
+      "PC|OPEN_APP|cmd"
+    ]
+  },
+  {
+    "name": "Open PowerShell",
+    "trigger": "open powershell",
+    "action": "OPEN_APP",
+    "value": "powershell",
+    "description": "Open Windows application",
+    "category": "Laptop",
+    "steps": [
+      "PC|OPEN_APP|powershell"
+    ]
+  },
+  {
+    "name": "Open VS Code",
+    "trigger": "open vscode",
+    "action": "OPEN_APP",
+    "value": "vscode",
+    "description": "Open Windows application",
+    "category": "Laptop",
+    "steps": [
+      "PC|OPEN_APP|vscode"
+    ]
+  },
+  {
+    "name": "Open File Explorer",
+    "trigger": "open file explorer",
+    "action": "OPEN_APP",
+    "value": "explorer",
+    "description": "Open Windows application",
+    "category": "Laptop",
+    "steps": [
+      "PC|OPEN_APP|explorer"
+    ]
+  },
+  {
+    "name": "Open This PC",
+    "trigger": "open this pc",
+    "action": "OPEN_APP",
+    "value": "this_pc",
+    "description": "Open Windows application",
+    "category": "Laptop",
+    "steps": [
+      "PC|OPEN_APP|this_pc"
+    ]
+  },
+  {
+    "name": "System Settings",
+    "trigger": "open system settings",
+    "action": "SETTINGS_system",
+    "value": "system",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_system|system"
+    ]
+  },
+  {
+    "name": "Display Settings",
+    "trigger": "open display settings",
+    "action": "SETTINGS_display",
+    "value": "display",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_display|display"
+    ]
+  },
+  {
+    "name": "Sound Settings",
+    "trigger": "open sound settings",
+    "action": "SETTINGS_sound",
+    "value": "sound",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_sound|sound"
+    ]
+  },
+  {
+    "name": "Bluetooth Settings",
+    "trigger": "open bluetooth settings",
+    "action": "SETTINGS_bluetooth",
+    "value": "bluetooth",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_bluetooth|bluetooth"
+    ]
+  },
+  {
+    "name": "Network Settings",
+    "trigger": "open network settings",
+    "action": "SETTINGS_network",
+    "value": "network",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_network|network"
+    ]
+  },
+  {
+    "name": "Wi-Fi Settings",
+    "trigger": "open wifi settings",
+    "action": "SETTINGS_network-wifi",
+    "value": "network-wifi",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_network-wifi|network-wifi"
+    ]
+  },
+  {
+    "name": "Apps Settings",
+    "trigger": "open apps settings",
+    "action": "SETTINGS_appsfeatures",
+    "value": "appsfeatures",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_appsfeatures|appsfeatures"
+    ]
+  },
+  {
+    "name": "Windows Update",
+    "trigger": "open windows update",
+    "action": "SETTINGS_windowsupdate",
+    "value": "windowsupdate",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_windowsupdate|windowsupdate"
+    ]
+  },
+  {
+    "name": "Storage Settings",
+    "trigger": "open storage settings",
+    "action": "SETTINGS_storage",
+    "value": "storage",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_storage|storage"
+    ]
+  },
+  {
+    "name": "Personalization Settings",
+    "trigger": "open personalization",
+    "action": "SETTINGS_personalization",
+    "value": "personalization",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_personalization|personalization"
+    ]
+  },
+  {
+    "name": "Mouse Settings",
+    "trigger": "open mouse settings",
+    "action": "SETTINGS_mousetouchpad",
+    "value": "mousetouchpad",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_mousetouchpad|mousetouchpad"
+    ]
+  },
+  {
+    "name": "Keyboard Settings",
+    "trigger": "open keyboard settings",
+    "action": "SETTINGS_typing",
+    "value": "typing",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_typing|typing"
+    ]
+  },
+  {
+    "name": "Printers Settings",
+    "trigger": "open printers settings",
+    "action": "SETTINGS_printers",
+    "value": "printers",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_printers|printers"
+    ]
+  },
+  {
+    "name": "Privacy Settings",
+    "trigger": "open privacy settings",
+    "action": "SETTINGS_privacy",
+    "value": "privacy",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_privacy|privacy"
+    ]
+  },
+  {
+    "name": "Windows Security",
+    "trigger": "open windows security",
+    "action": "SETTINGS_windowsdefender",
+    "value": "windowsdefender",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_windowsdefender|windowsdefender"
+    ]
+  },
+  {
+    "name": "Date Time Settings",
+    "trigger": "open date time settings",
+    "action": "SETTINGS_dateandtime",
+    "value": "dateandtime",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_dateandtime|dateandtime"
+    ]
+  },
+  {
+    "name": "Taskbar Settings",
+    "trigger": "open taskbar settings",
+    "action": "SETTINGS_taskbar",
+    "value": "taskbar",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_taskbar|taskbar"
+    ]
+  },
+  {
+    "name": "Notifications Settings",
+    "trigger": "open notification settings",
+    "action": "SETTINGS_notifications",
+    "value": "notifications",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_notifications|notifications"
+    ]
+  },
+  {
+    "name": "Language Settings",
+    "trigger": "open language settings",
+    "action": "SETTINGS_regionlanguage",
+    "value": "regionlanguage",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_regionlanguage|regionlanguage"
+    ]
+  },
+  {
+    "name": "Accessibility Settings",
+    "trigger": "open accessibility settings",
+    "action": "SETTINGS_easeofaccess",
+    "value": "easeofaccess",
+    "description": "Open Windows Settings page",
+    "category": "Laptop",
+    "steps": [
+      "PC|SETTINGS_easeofaccess|easeofaccess"
+    ]
+  },
+  {
+    "name": "Open Youtube",
+    "trigger": "open youtube",
+    "action": "OPEN_WEBSITE",
+    "value": "youtube",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|youtube"
+    ]
+  },
+  {
+    "name": "Open Google",
+    "trigger": "open google",
+    "action": "OPEN_WEBSITE",
+    "value": "google",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|google"
+    ]
+  },
+  {
+    "name": "Open Github",
+    "trigger": "open github",
+    "action": "OPEN_WEBSITE",
+    "value": "github",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|github"
+    ]
+  },
+  {
+    "name": "Open Wikipedia",
+    "trigger": "open wikipedia",
+    "action": "OPEN_WEBSITE",
+    "value": "wikipedia",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|wikipedia"
+    ]
+  },
+  {
+    "name": "Open Gmail",
+    "trigger": "open gmail",
+    "action": "OPEN_WEBSITE",
+    "value": "gmail",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|gmail"
+    ]
+  },
+  {
+    "name": "Open Drive",
+    "trigger": "open drive",
+    "action": "OPEN_WEBSITE",
+    "value": "drive",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|drive"
+    ]
+  },
+  {
+    "name": "Open Calendar",
+    "trigger": "open calendar",
+    "action": "OPEN_WEBSITE",
+    "value": "calendar",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|calendar"
+    ]
+  },
+  {
+    "name": "Open Maps",
+    "trigger": "open maps",
+    "action": "OPEN_WEBSITE",
+    "value": "maps",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|maps"
+    ]
+  },
+  {
+    "name": "Open Translate",
+    "trigger": "open translate",
+    "action": "OPEN_WEBSITE",
+    "value": "translate",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|translate"
+    ]
+  },
+  {
+    "name": "Open News",
+    "trigger": "open news",
+    "action": "OPEN_WEBSITE",
+    "value": "news",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|news"
+    ]
+  },
+  {
+    "name": "Open Weather",
+    "trigger": "open weather",
+    "action": "OPEN_WEBSITE",
+    "value": "weather",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|weather"
+    ]
+  },
+  {
+    "name": "Open Images",
+    "trigger": "open images",
+    "action": "OPEN_WEBSITE",
+    "value": "images",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|images"
+    ]
+  },
+  {
+    "name": "Open Books",
+    "trigger": "open books",
+    "action": "OPEN_WEBSITE",
+    "value": "books",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|books"
+    ]
+  },
+  {
+    "name": "Open Scholar",
+    "trigger": "open scholar",
+    "action": "OPEN_WEBSITE",
+    "value": "scholar",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|scholar"
+    ]
+  },
+  {
+    "name": "Open Classroom",
+    "trigger": "open classroom",
+    "action": "OPEN_WEBSITE",
+    "value": "classroom",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|classroom"
+    ]
+  },
+  {
+    "name": "Open Meet",
+    "trigger": "open meet",
+    "action": "OPEN_WEBSITE",
+    "value": "meet",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|meet"
+    ]
+  },
+  {
+    "name": "Open Docs",
+    "trigger": "open docs",
+    "action": "OPEN_WEBSITE",
+    "value": "docs",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|docs"
+    ]
+  },
+  {
+    "name": "Open Sheets",
+    "trigger": "open sheets",
+    "action": "OPEN_WEBSITE",
+    "value": "sheets",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|sheets"
+    ]
+  },
+  {
+    "name": "Open Slides",
+    "trigger": "open slides",
+    "action": "OPEN_WEBSITE",
+    "value": "slides",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|slides"
+    ]
+  },
+  {
+    "name": "Open Arduino",
+    "trigger": "open arduino",
+    "action": "OPEN_WEBSITE",
+    "value": "arduino",
+    "description": "Open website in default browser",
+    "category": "Browser",
+    "steps": [
+      "PC|OPEN_WEBSITE|arduino"
+    ]
+  },
+  {
+    "name": "Google Search - today news",
+    "trigger": "search today news",
+    "action": "SEARCH_GOOGLE",
+    "value": "today news",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|today news"
+    ]
+  },
+  {
+    "name": "Google Search - today India news",
+    "trigger": "search today India news",
+    "action": "SEARCH_GOOGLE",
+    "value": "today India news",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|today India news"
+    ]
+  },
+  {
+    "name": "Google Search - Meerut news today",
+    "trigger": "search Meerut news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "Meerut news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Meerut news today"
+    ]
+  },
+  {
+    "name": "Google Search - weather today",
+    "trigger": "search weather today",
+    "action": "SEARCH_GOOGLE",
+    "value": "weather today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|weather today"
+    ]
+  },
+  {
+    "name": "Google Search - weather tomorrow",
+    "trigger": "search weather tomorrow",
+    "action": "SEARCH_GOOGLE",
+    "value": "weather tomorrow",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|weather tomorrow"
+    ]
+  },
+  {
+    "name": "Google Search - technology news today",
+    "trigger": "search technology news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "technology news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|technology news today"
+    ]
+  },
+  {
+    "name": "Google Search - AI news today",
+    "trigger": "search AI news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "AI news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|AI news today"
+    ]
+  },
+  {
+    "name": "Google Search - gaming news today",
+    "trigger": "search gaming news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "gaming news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|gaming news today"
+    ]
+  },
+  {
+    "name": "Google Search - BGMI news",
+    "trigger": "search BGMI news",
+    "action": "SEARCH_GOOGLE",
+    "value": "BGMI news",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|BGMI news"
+    ]
+  },
+  {
+    "name": "Google Search - sports news today",
+    "trigger": "search sports news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "sports news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|sports news today"
+    ]
+  },
+  {
+    "name": "Google Search - cricket news today",
+    "trigger": "search cricket news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "cricket news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|cricket news today"
+    ]
+  },
+  {
+    "name": "Google Search - football news today",
+    "trigger": "search football news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "football news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|football news today"
+    ]
+  },
+  {
+    "name": "Google Search - science news today",
+    "trigger": "search science news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "science news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|science news today"
+    ]
+  },
+  {
+    "name": "Google Search - space news today",
+    "trigger": "search space news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "space news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|space news today"
+    ]
+  },
+  {
+    "name": "Google Search - school news today",
+    "trigger": "search school news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "school news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|school news today"
+    ]
+  },
+  {
+    "name": "Google Search - education news today",
+    "trigger": "search education news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "education news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|education news today"
+    ]
+  },
+  {
+    "name": "Google Search - computer news today",
+    "trigger": "search computer news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "computer news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|computer news today"
+    ]
+  },
+  {
+    "name": "Google Search - Windows news today",
+    "trigger": "search Windows news today",
+    "action": "SEARCH_GOOGLE",
+    "value": "Windows news today",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Windows news today"
+    ]
+  },
+  {
+    "name": "Google Search - Arduino tutorials",
+    "trigger": "search Arduino tutorials",
+    "action": "SEARCH_GOOGLE",
+    "value": "Arduino tutorials",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Arduino tutorials"
+    ]
+  },
+  {
+    "name": "Google Search - Python tutorials",
+    "trigger": "search Python tutorials",
+    "action": "SEARCH_GOOGLE",
+    "value": "Python tutorials",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Python tutorials"
+    ]
+  },
+  {
+    "name": "Google Search - FastAPI tutorials",
+    "trigger": "search FastAPI tutorials",
+    "action": "SEARCH_GOOGLE",
+    "value": "FastAPI tutorials",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|FastAPI tutorials"
+    ]
+  },
+  {
+    "name": "Google Search - JavaScript tutorials",
+    "trigger": "search JavaScript tutorials",
+    "action": "SEARCH_GOOGLE",
+    "value": "JavaScript tutorials",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|JavaScript tutorials"
+    ]
+  },
+  {
+    "name": "Google Search - HTML tutorials",
+    "trigger": "search HTML tutorials",
+    "action": "SEARCH_GOOGLE",
+    "value": "HTML tutorials",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|HTML tutorials"
+    ]
+  },
+  {
+    "name": "Google Search - CSS tutorials",
+    "trigger": "search CSS tutorials",
+    "action": "SEARCH_GOOGLE",
+    "value": "CSS tutorials",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|CSS tutorials"
+    ]
+  },
+  {
+    "name": "Google Search - YouTube tips",
+    "trigger": "search YouTube tips",
+    "action": "SEARCH_GOOGLE",
+    "value": "YouTube tips",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|YouTube tips"
+    ]
+  },
+  {
+    "name": "Google Search - Instagram tips",
+    "trigger": "search Instagram tips",
+    "action": "SEARCH_GOOGLE",
+    "value": "Instagram tips",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Instagram tips"
+    ]
+  },
+  {
+    "name": "Google Search - GitHub Python projects",
+    "trigger": "search GitHub Python projects",
+    "action": "SEARCH_GOOGLE",
+    "value": "GitHub Python projects",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|GitHub Python projects"
+    ]
+  },
+  {
+    "name": "Google Search - free coding courses",
+    "trigger": "search free coding courses",
+    "action": "SEARCH_GOOGLE",
+    "value": "free coding courses",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|free coding courses"
+    ]
+  },
+  {
+    "name": "Google Search - math tutorials",
+    "trigger": "search math tutorials",
+    "action": "SEARCH_GOOGLE",
+    "value": "math tutorials",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|math tutorials"
+    ]
+  },
+  {
+    "name": "Google Search - physics tutorials",
+    "trigger": "search physics tutorials",
+    "action": "SEARCH_GOOGLE",
+    "value": "physics tutorials",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|physics tutorials"
+    ]
+  },
+  {
+    "name": "Google Search - chemistry tutorials",
+    "trigger": "search chemistry tutorials",
+    "action": "SEARCH_GOOGLE",
+    "value": "chemistry tutorials",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|chemistry tutorials"
+    ]
+  },
+  {
+    "name": "Google Search - English speaking practice",
+    "trigger": "search English speaking practice",
+    "action": "SEARCH_GOOGLE",
+    "value": "English speaking practice",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|English speaking practice"
+    ]
+  },
+  {
+    "name": "Google Search - Hindi to English translation",
+    "trigger": "search Hindi to English translation",
+    "action": "SEARCH_GOOGLE",
+    "value": "Hindi to English translation",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Hindi to English translation"
+    ]
+  },
+  {
+    "name": "Google Search - computer shortcut keys",
+    "trigger": "search computer shortcut keys",
+    "action": "SEARCH_GOOGLE",
+    "value": "computer shortcut keys",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|computer shortcut keys"
+    ]
+  },
+  {
+    "name": "Google Search - Windows keyboard shortcuts",
+    "trigger": "search Windows keyboard shortcuts",
+    "action": "SEARCH_GOOGLE",
+    "value": "Windows keyboard shortcuts",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Windows keyboard shortcuts"
+    ]
+  },
+  {
+    "name": "Google Search - Chrome shortcuts",
+    "trigger": "search Chrome shortcuts",
+    "action": "SEARCH_GOOGLE",
+    "value": "Chrome shortcuts",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Chrome shortcuts"
+    ]
+  },
+  {
+    "name": "Google Search - Arduino Uno projects",
+    "trigger": "search Arduino Uno projects",
+    "action": "SEARCH_GOOGLE",
+    "value": "Arduino Uno projects",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Arduino Uno projects"
+    ]
+  },
+  {
+    "name": "Google Search - smart school Arduino",
+    "trigger": "search smart school Arduino",
+    "action": "SEARCH_GOOGLE",
+    "value": "smart school Arduino",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|smart school Arduino"
+    ]
+  },
+  {
+    "name": "Google Search - PC automation ideas",
+    "trigger": "search PC automation ideas",
+    "action": "SEARCH_GOOGLE",
+    "value": "PC automation ideas",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|PC automation ideas"
+    ]
+  },
+  {
+    "name": "Google Search - AI assistant projects",
+    "trigger": "search AI assistant projects",
+    "action": "SEARCH_GOOGLE",
+    "value": "AI assistant projects",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|AI assistant projects"
+    ]
+  },
+  {
+    "name": "Google Search - robotics projects",
+    "trigger": "search robotics projects",
+    "action": "SEARCH_GOOGLE",
+    "value": "robotics projects",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|robotics projects"
+    ]
+  },
+  {
+    "name": "Google Search - electronics projects",
+    "trigger": "search electronics projects",
+    "action": "SEARCH_GOOGLE",
+    "value": "electronics projects",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|electronics projects"
+    ]
+  },
+  {
+    "name": "Google Search - web development tutorials",
+    "trigger": "search web development tutorials",
+    "action": "SEARCH_GOOGLE",
+    "value": "web development tutorials",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|web development tutorials"
+    ]
+  },
+  {
+    "name": "Google Search - Python automation",
+    "trigger": "search Python automation",
+    "action": "SEARCH_GOOGLE",
+    "value": "Python automation",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Python automation"
+    ]
+  },
+  {
+    "name": "Google Search - JavaScript projects",
+    "trigger": "search JavaScript projects",
+    "action": "SEARCH_GOOGLE",
+    "value": "JavaScript projects",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|JavaScript projects"
+    ]
+  },
+  {
+    "name": "Google Search - HTML CSS projects",
+    "trigger": "search HTML CSS projects",
+    "action": "SEARCH_GOOGLE",
+    "value": "HTML CSS projects",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|HTML CSS projects"
+    ]
+  },
+  {
+    "name": "Google Search - Windows 11 tips",
+    "trigger": "search Windows 11 tips",
+    "action": "SEARCH_GOOGLE",
+    "value": "Windows 11 tips",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Windows 11 tips"
+    ]
+  },
+  {
+    "name": "Google Search - Chrome latest updates",
+    "trigger": "search Chrome latest updates",
+    "action": "SEARCH_GOOGLE",
+    "value": "Chrome latest updates",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Chrome latest updates"
+    ]
+  },
+  {
+    "name": "Google Search - GitHub trending projects",
+    "trigger": "search GitHub trending projects",
+    "action": "SEARCH_GOOGLE",
+    "value": "GitHub trending projects",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|GitHub trending projects"
+    ]
+  },
+  {
+    "name": "Google Search - Arduino sensors",
+    "trigger": "search Arduino sensors",
+    "action": "SEARCH_GOOGLE",
+    "value": "Arduino sensors",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Arduino sensors"
+    ]
+  },
+  {
+    "name": "Google Search - servo motor Arduino",
+    "trigger": "search servo motor Arduino",
+    "action": "SEARCH_GOOGLE",
+    "value": "servo motor Arduino",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|servo motor Arduino"
+    ]
+  },
+  {
+    "name": "Google Search - IR sensor Arduino",
+    "trigger": "search IR sensor Arduino",
+    "action": "SEARCH_GOOGLE",
+    "value": "IR sensor Arduino",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|IR sensor Arduino"
+    ]
+  },
+  {
+    "name": "Google Search - school automation ideas",
+    "trigger": "search school automation ideas",
+    "action": "SEARCH_GOOGLE",
+    "value": "school automation ideas",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|school automation ideas"
+    ]
+  },
+  {
+    "name": "Google Search - home automation ideas",
+    "trigger": "search home automation ideas",
+    "action": "SEARCH_GOOGLE",
+    "value": "home automation ideas",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|home automation ideas"
+    ]
+  },
+  {
+    "name": "Google Search - computer programming",
+    "trigger": "search computer programming",
+    "action": "SEARCH_GOOGLE",
+    "value": "computer programming",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|computer programming"
+    ]
+  },
+  {
+    "name": "Google Search - coding for beginners",
+    "trigger": "search coding for beginners",
+    "action": "SEARCH_GOOGLE",
+    "value": "coding for beginners",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|coding for beginners"
+    ]
+  },
+  {
+    "name": "Google Search - Python for beginners",
+    "trigger": "search Python for beginners",
+    "action": "SEARCH_GOOGLE",
+    "value": "Python for beginners",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|Python for beginners"
+    ]
+  },
+  {
+    "name": "Google Search - JavaScript for beginners",
+    "trigger": "search JavaScript for beginners",
+    "action": "SEARCH_GOOGLE",
+    "value": "JavaScript for beginners",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|JavaScript for beginners"
+    ]
+  },
+  {
+    "name": "YouTube Search - Arijit Singh songs",
+    "trigger": "youtube search Arijit Singh songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "Arijit Singh songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|Arijit Singh songs"
+    ]
+  },
+  {
+    "name": "YouTube Search - lofi study music",
+    "trigger": "youtube search lofi study music",
+    "action": "SEARCH_YOUTUBE",
+    "value": "lofi study music",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|lofi study music"
+    ]
+  },
+  {
+    "name": "YouTube Search - Hindi motivational songs",
+    "trigger": "youtube search Hindi motivational songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "Hindi motivational songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|Hindi motivational songs"
+    ]
+  },
+  {
+    "name": "YouTube Search - English workout music",
+    "trigger": "youtube search English workout music",
+    "action": "SEARCH_YOUTUBE",
+    "value": "English workout music",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|English workout music"
+    ]
+  },
+  {
+    "name": "YouTube Search - instrumental study music",
+    "trigger": "youtube search instrumental study music",
+    "action": "SEARCH_YOUTUBE",
+    "value": "instrumental study music",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|instrumental study music"
+    ]
+  },
+  {
+    "name": "YouTube Search - latest Hindi songs",
+    "trigger": "youtube search latest Hindi songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "latest Hindi songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|latest Hindi songs"
+    ]
+  },
+  {
+    "name": "YouTube Search - Punjabi songs",
+    "trigger": "youtube search Punjabi songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "Punjabi songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|Punjabi songs"
+    ]
+  },
+  {
+    "name": "YouTube Search - classical music",
+    "trigger": "youtube search classical music",
+    "action": "SEARCH_YOUTUBE",
+    "value": "classical music",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|classical music"
+    ]
+  },
+  {
+    "name": "YouTube Search - coding music",
+    "trigger": "youtube search coding music",
+    "action": "SEARCH_YOUTUBE",
+    "value": "coding music",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|coding music"
+    ]
+  },
+  {
+    "name": "YouTube Search - gaming music",
+    "trigger": "youtube search gaming music",
+    "action": "SEARCH_YOUTUBE",
+    "value": "gaming music",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|gaming music"
+    ]
+  },
+  {
+    "name": "YouTube Search - relaxing music",
+    "trigger": "youtube search relaxing music",
+    "action": "SEARCH_YOUTUBE",
+    "value": "relaxing music",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|relaxing music"
+    ]
+  },
+  {
+    "name": "YouTube Search - morning music",
+    "trigger": "youtube search morning music",
+    "action": "SEARCH_YOUTUBE",
+    "value": "morning music",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|morning music"
+    ]
+  },
+  {
+    "name": "YouTube Search - focus music",
+    "trigger": "youtube search focus music",
+    "action": "SEARCH_YOUTUBE",
+    "value": "focus music",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|focus music"
+    ]
+  },
+  {
+    "name": "YouTube Search - travel songs",
+    "trigger": "youtube search travel songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "travel songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|travel songs"
+    ]
+  },
+  {
+    "name": "YouTube Search - retro Hindi songs",
+    "trigger": "youtube search retro Hindi songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "retro Hindi songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|retro Hindi songs"
+    ]
+  },
+  {
+    "name": "YouTube Search - Bollywood songs",
+    "trigger": "youtube search Bollywood songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "Bollywood songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|Bollywood songs"
+    ]
+  },
+  {
+    "name": "YouTube Search - indie Hindi songs",
+    "trigger": "youtube search indie Hindi songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "indie Hindi songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|indie Hindi songs"
+    ]
+  },
+  {
+    "name": "YouTube Search - dance songs",
+    "trigger": "youtube search dance songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "dance songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|dance songs"
+    ]
+  },
+  {
+    "name": "YouTube Search - party songs",
+    "trigger": "youtube search party songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "party songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|party songs"
+    ]
+  },
+  {
+    "name": "YouTube Search - school annual function songs",
+    "trigger": "youtube search school annual function songs",
+    "action": "SEARCH_YOUTUBE",
+    "value": "school annual function songs",
+    "description": "Search YouTube",
+    "category": "YouTube",
+    "steps": [
+      "PC|SEARCH_YOUTUBE|school annual function songs"
+    ]
+  },
+  {
+    "name": "New Tab",
+    "trigger": "new tab",
+    "action": "NEW_TAB",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|NEW_TAB|"
+    ]
+  },
+  {
+    "name": "Close Tab",
+    "trigger": "close tab",
+    "action": "CLOSE_TAB",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|CLOSE_TAB|"
+    ]
+  },
+  {
+    "name": "Refresh",
+    "trigger": "refresh",
+    "action": "REFRESH",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|REFRESH|"
+    ]
+  },
+  {
+    "name": "Back",
+    "trigger": "go back",
+    "action": "BACK",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|BACK|"
+    ]
+  },
+  {
+    "name": "Forward",
+    "trigger": "go forward",
+    "action": "FORWARD",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|FORWARD|"
+    ]
+  },
+  {
+    "name": "Zoom In",
+    "trigger": "zoom in",
+    "action": "ZOOM_IN",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|ZOOM_IN|"
+    ]
+  },
+  {
+    "name": "Zoom Out",
+    "trigger": "zoom out",
+    "action": "ZOOM_OUT",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|ZOOM_OUT|"
+    ]
+  },
+  {
+    "name": "Reset Zoom",
+    "trigger": "reset zoom",
+    "action": "ZOOM_RESET",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|ZOOM_RESET|"
+    ]
+  },
+  {
+    "name": "Focus Address Bar",
+    "trigger": "focus address",
+    "action": "FOCUS_ADDRESS",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|FOCUS_ADDRESS|"
+    ]
+  },
+  {
+    "name": "New Window",
+    "trigger": "new window",
+    "action": "NEW_WINDOW",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|NEW_WINDOW|"
+    ]
+  },
+  {
+    "name": "Close Window",
+    "trigger": "close window",
+    "action": "CLOSE_WINDOW",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|CLOSE_WINDOW|"
+    ]
+  },
+  {
+    "name": "Task Manager",
+    "trigger": "open task manager",
+    "action": "TASK_MANAGER",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|TASK_MANAGER|"
+    ]
+  },
+  {
+    "name": "Run Dialog",
+    "trigger": "open run dialog",
+    "action": "RUN_DIALOG",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|RUN_DIALOG|"
+    ]
+  },
+  {
+    "name": "Show Desktop",
+    "trigger": "show desktop",
+    "action": "SHOW_DESKTOP",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|SHOW_DESKTOP|"
+    ]
+  },
+  {
+    "name": "Alt Tab",
+    "trigger": "alt tab",
+    "action": "ALT_TAB",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|ALT_TAB|"
+    ]
+  },
+  {
+    "name": "Copy",
+    "trigger": "copy",
+    "action": "COPY",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|COPY|"
+    ]
+  },
+  {
+    "name": "Paste",
+    "trigger": "paste",
+    "action": "PASTE",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|PASTE|"
+    ]
+  },
+  {
+    "name": "Cut",
+    "trigger": "cut",
+    "action": "CUT",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|CUT|"
+    ]
+  },
+  {
+    "name": "Select All",
+    "trigger": "select all",
+    "action": "SELECT_ALL",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|SELECT_ALL|"
+    ]
+  },
+  {
+    "name": "Undo",
+    "trigger": "undo",
+    "action": "UNDO",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|UNDO|"
+    ]
+  },
+  {
+    "name": "Redo",
+    "trigger": "redo",
+    "action": "REDO",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|REDO|"
+    ]
+  },
+  {
+    "name": "Save",
+    "trigger": "save",
+    "action": "SAVE",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|SAVE|"
+    ]
+  },
+  {
+    "name": "Print",
+    "trigger": "print",
+    "action": "PRINT",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|PRINT|"
+    ]
+  },
+  {
+    "name": "Find",
+    "trigger": "find",
+    "action": "FIND",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|FIND|"
+    ]
+  },
+  {
+    "name": "Screenshot",
+    "trigger": "take screenshot",
+    "action": "SCREENSHOT",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|SCREENSHOT|"
+    ]
+  },
+  {
+    "name": "Emoji Panel",
+    "trigger": "open emoji panel",
+    "action": "EMOJI",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|EMOJI|"
+    ]
+  },
+  {
+    "name": "Volume Up",
+    "trigger": "volume up",
+    "action": "VOLUME_UP",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|VOLUME_UP|"
+    ]
+  },
+  {
+    "name": "Volume Down",
+    "trigger": "volume down",
+    "action": "VOLUME_DOWN",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|VOLUME_DOWN|"
+    ]
+  },
+  {
+    "name": "Mute",
+    "trigger": "mute",
+    "action": "MUTE",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|MUTE|"
+    ]
+  },
+  {
+    "name": "Play Pause",
+    "trigger": "play pause",
+    "action": "MEDIA_PLAY_PAUSE",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|MEDIA_PLAY_PAUSE|"
+    ]
+  },
+  {
+    "name": "Next Track",
+    "trigger": "next track",
+    "action": "MEDIA_NEXT",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|MEDIA_NEXT|"
+    ]
+  },
+  {
+    "name": "Previous Track",
+    "trigger": "previous track",
+    "action": "MEDIA_PREV",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|MEDIA_PREV|"
+    ]
+  },
+  {
+    "name": "Lock PC",
+    "trigger": "lock pc",
+    "action": "LOCK_PC",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|LOCK_PC|"
+    ]
+  },
+  {
+    "name": "System Info",
+    "trigger": "system info",
+    "action": "SYSTEM_INFO",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|SYSTEM_INFO|"
+    ]
+  },
+  {
+    "name": "File Explorer",
+    "trigger": "file explorer",
+    "action": "FILE_EXPLORER",
+    "value": "",
+    "description": "Safe Windows shortcut/system action",
+    "category": "Laptop",
+    "steps": [
+      "PC|FILE_EXPLORER|"
+    ]
+  },
+  {
+    "name": "Google Search Extra 1",
+    "trigger": "search latest technology update 1",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 1",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 1"
+    ]
+  },
+  {
+    "name": "Google Search Extra 2",
+    "trigger": "search latest technology update 2",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 2",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 2"
+    ]
+  },
+  {
+    "name": "Google Search Extra 3",
+    "trigger": "search latest technology update 3",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 3",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 3"
+    ]
+  },
+  {
+    "name": "Google Search Extra 4",
+    "trigger": "search latest technology update 4",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 4",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 4"
+    ]
+  },
+  {
+    "name": "Google Search Extra 5",
+    "trigger": "search latest technology update 5",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 5",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 5"
+    ]
+  },
+  {
+    "name": "Google Search Extra 6",
+    "trigger": "search latest technology update 6",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 6",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 6"
+    ]
+  },
+  {
+    "name": "Google Search Extra 7",
+    "trigger": "search latest technology update 7",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 7",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 7"
+    ]
+  },
+  {
+    "name": "Google Search Extra 8",
+    "trigger": "search latest technology update 8",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 8",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 8"
+    ]
+  },
+  {
+    "name": "Google Search Extra 9",
+    "trigger": "search latest technology update 9",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 9",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 9"
+    ]
+  },
+  {
+    "name": "Google Search Extra 10",
+    "trigger": "search latest technology update 10",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 10",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 10"
+    ]
+  },
+  {
+    "name": "Google Search Extra 11",
+    "trigger": "search latest technology update 11",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 11",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 11"
+    ]
+  },
+  {
+    "name": "Google Search Extra 12",
+    "trigger": "search latest technology update 12",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 12",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 12"
+    ]
+  },
+  {
+    "name": "Google Search Extra 13",
+    "trigger": "search latest technology update 13",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 13",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 13"
+    ]
+  },
+  {
+    "name": "Google Search Extra 14",
+    "trigger": "search latest technology update 14",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 14",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 14"
+    ]
+  },
+  {
+    "name": "Google Search Extra 15",
+    "trigger": "search latest technology update 15",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 15",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 15"
+    ]
+  },
+  {
+    "name": "Google Search Extra 16",
+    "trigger": "search latest technology update 16",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 16",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 16"
+    ]
+  },
+  {
+    "name": "Google Search Extra 17",
+    "trigger": "search latest technology update 17",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 17",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 17"
+    ]
+  },
+  {
+    "name": "Google Search Extra 18",
+    "trigger": "search latest technology update 18",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 18",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 18"
+    ]
+  },
+  {
+    "name": "Google Search Extra 19",
+    "trigger": "search latest technology update 19",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 19",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 19"
+    ]
+  },
+  {
+    "name": "Google Search Extra 20",
+    "trigger": "search latest technology update 20",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 20",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 20"
+    ]
+  },
+  {
+    "name": "Google Search Extra 21",
+    "trigger": "search latest technology update 21",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 21",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 21"
+    ]
+  },
+  {
+    "name": "Google Search Extra 22",
+    "trigger": "search latest technology update 22",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 22",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 22"
+    ]
+  },
+  {
+    "name": "Google Search Extra 23",
+    "trigger": "search latest technology update 23",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 23",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 23"
+    ]
+  },
+  {
+    "name": "Google Search Extra 24",
+    "trigger": "search latest technology update 24",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 24",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 24"
+    ]
+  },
+  {
+    "name": "Google Search Extra 25",
+    "trigger": "search latest technology update 25",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 25",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 25"
+    ]
+  },
+  {
+    "name": "Google Search Extra 26",
+    "trigger": "search latest technology update 26",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 26",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 26"
+    ]
+  },
+  {
+    "name": "Google Search Extra 27",
+    "trigger": "search latest technology update 27",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 27",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 27"
+    ]
+  },
+  {
+    "name": "Google Search Extra 28",
+    "trigger": "search latest technology update 28",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 28",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 28"
+    ]
+  },
+  {
+    "name": "Google Search Extra 29",
+    "trigger": "search latest technology update 29",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 29",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 29"
+    ]
+  },
+  {
+    "name": "Google Search Extra 30",
+    "trigger": "search latest technology update 30",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 30",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 30"
+    ]
+  },
+  {
+    "name": "Google Search Extra 31",
+    "trigger": "search latest technology update 31",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 31",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 31"
+    ]
+  },
+  {
+    "name": "Google Search Extra 32",
+    "trigger": "search latest technology update 32",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 32",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 32"
+    ]
+  },
+  {
+    "name": "Google Search Extra 33",
+    "trigger": "search latest technology update 33",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 33",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 33"
+    ]
+  },
+  {
+    "name": "Google Search Extra 34",
+    "trigger": "search latest technology update 34",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 34",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 34"
+    ]
+  },
+  {
+    "name": "Google Search Extra 35",
+    "trigger": "search latest technology update 35",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 35",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 35"
+    ]
+  },
+  {
+    "name": "Google Search Extra 36",
+    "trigger": "search latest technology update 36",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 36",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 36"
+    ]
+  },
+  {
+    "name": "Google Search Extra 37",
+    "trigger": "search latest technology update 37",
+    "action": "SEARCH_GOOGLE",
+    "value": "latest technology update 37",
+    "description": "Search Google",
+    "category": "Search",
+    "steps": [
+      "PC|SEARCH_GOOGLE|latest technology update 37"
+    ]
+  },
+  {
+    "name": "Play Boom Shakala on YouTube",
+    "trigger": "play boom shakala",
+    "description": "Open Chrome and play the selected Boom Shakala YouTube video.",
+    "category": "Laptop",
+    "action": "CUSTOM_WORKFLOW",
+    "value": "",
+    "steps": [
+      "PC|OPEN_APP|chrome",
+      "PC|WAIT|2",
+      "PC|OPEN_URL_NEW_TAB|https://www.youtube.com/watch?v=53s1mEwdCmk"
+    ]
+  },
+  {
+    "name": "Open BAV Inter College Info + Map",
+    "trigger": "open bav inter college info and map",
+    "description": "Open Chrome, then open B.A.V. Inter College information and its map in separate tabs.",
+    "category": "Laptop",
+    "action": "CUSTOM_WORKFLOW",
+    "value": "",
+    "steps": [
+      "PC|OPEN_APP|chrome",
+      "PC|WAIT|2",
+      "PC|OPEN_URL_NEW_TAB|https://www.google.com/search?q=B.A.V.+Inter+College+Meerut",
+      "PC|WAIT|1",
+      "PC|OPEN_URL_NEW_TAB|https://www.google.com/maps/search/?api=1&query=B.A.V.+Inter+College%2C+Subhash+Bazar%2C+Meerut"
+    ]
+  },
+  {
+    "name": "Open BAV Inter College Info",
+    "trigger": "open bav inter college",
+    "description": "Open Chrome and search for B.A.V. Inter College Meerut.",
+    "category": "Laptop",
+    "action": "CUSTOM_WORKFLOW",
+    "value": "",
+    "steps": [
+      "PC|OPEN_APP|chrome",
+      "PC|WAIT|2",
+      "PC|OPEN_URL_NEW_TAB|https://www.google.com/search?q=B.A.V.+Inter+College+Meerut"
+    ]
+  },
+  {
+    "name": "Open BAV Inter College Map",
+    "trigger": "open bav inter college map",
+    "description": "Open Chrome and open the B.A.V. Inter College Meerut map.",
+    "category": "Laptop",
+    "action": "CUSTOM_WORKFLOW",
+    "value": "",
+    "steps": [
+      "PC|OPEN_APP|chrome",
+      "PC|WAIT|2",
+      "PC|OPEN_URL_NEW_TAB|https://www.google.com/maps/search/?api=1&query=B.A.V.+Inter+College%2C+Subhash+Bazar%2C+Meerut"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "69bb237796",
+    "name": "Open YouTube",
+    "trigger": "open youtube",
+    "enabled": true,
+    "actions": [
+      {
+        "device": "browser",
+        "type": "new_tab",
+        "value": ""
+      },
+      {
+        "device": "browser",
+        "type": "open_url",
+        "value": "https://www.youtube.com/"
+      }
+    ],
+    "steps": [
+      "",
+      "https://www.youtube.com/"
+    ],
+    "createdAt": "2026-08-31T02:42:01.908486",
+    "updatedAt": "2026-08-31T02:42:45.305913"
+  },
+  {
+    "id": "589d124186",
+    "name": "Open Chrome",
+    "trigger": "open chrome",
+    "enabled": true,
+    "actions": [
+      {
+        "device": "pc",
+        "type": "open_app",
+        "value": "Chrome"
+      }
+    ],
+    "steps": [
+      "Chrome"
+    ],
+    "createdAt": "2026-08-31T02:41:13.911914",
+    "updatedAt": "2026-08-31T02:41:13.911934"
+  }
+]

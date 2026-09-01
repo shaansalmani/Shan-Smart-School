@@ -1,0 +1,12 @@
+SHAN DROP ANIMATION
+
+The assistant now uses this exact video when the anime assistant is dragged and released:
+assets/videos/optimized/Shan.mp4
+
+Important:
+1. Copy your local file named Shan.mp4 into assets/videos/optimized/
+2. The DROP animation is non-looping.
+3. The animation is allowed to finish naturally; it is NOT cut off by a 3.2-second timer.
+4. After Shan.mp4 ends, the assistant returns to its active state.
+
+The source video was not available inside this build environment, so Shan.mp4 itself could not be embedded into this ZIP.

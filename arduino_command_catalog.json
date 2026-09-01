@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Arduino - Classroom Light ON",
+    "trigger": "classroom light on",
+    "steps": [
+      "light on"
+    ],
+    "description": "Turn classroom light ON",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Classroom Light OFF",
+    "trigger": "classroom light off",
+    "steps": [
+      "light off"
+    ],
+    "description": "Turn classroom light OFF",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Fan 1 ON",
+    "trigger": "fan 1 on",
+    "steps": [
+      "fan 1 on"
+    ],
+    "description": "Turn Fan 1 ON",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Fan 1 OFF",
+    "trigger": "fan 1 off",
+    "steps": [
+      "fan 1 off"
+    ],
+    "description": "Turn Fan 1 OFF",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Fan 2 ON",
+    "trigger": "fan 2 on",
+    "steps": [
+      "fan 2 on"
+    ],
+    "description": "Turn Fan 2 ON",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Fan 2 OFF",
+    "trigger": "fan 2 off",
+    "steps": [
+      "fan 2 off"
+    ],
+    "description": "Turn Fan 2 OFF",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - All Fans ON",
+    "trigger": "all fans on",
+    "steps": [
+      "fans on"
+    ],
+    "description": "Turn both fans ON",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - All Fans OFF",
+    "trigger": "all fans off",
+    "steps": [
+      "fans off"
+    ],
+    "description": "Turn both fans OFF",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Water Pump ON",
+    "trigger": "water pump on",
+    "steps": [
+      "pump on"
+    ],
+    "description": "Turn water pump ON",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Water Pump OFF",
+    "trigger": "water pump off",
+    "steps": [
+      "pump off"
+    ],
+    "description": "Turn water pump OFF",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Gate OPEN",
+    "trigger": "gate open",
+    "steps": [
+      "gate open"
+    ],
+    "description": "Open school gate",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Gate CLOSE",
+    "trigger": "gate close",
+    "steps": [
+      "gate close"
+    ],
+    "description": "Close school gate",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Buzzer ON",
+    "trigger": "buzzer on",
+    "steps": [
+      "buzzer on"
+    ],
+    "description": "Turn buzzer ON",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Buzzer OFF",
+    "trigger": "buzzer off",
+    "steps": [
+      "buzzer off"
+    ],
+    "description": "Turn buzzer OFF",
+    "category": "Arduino"
+  },
+  {
+    "name": "Arduino - Counter RESET",
+    "trigger": "counter reset",
+    "steps": [
+      "counter reset"
+    ],
+    "description": "Reset object counter",
+    "category": "Arduino"
+  }
+]
